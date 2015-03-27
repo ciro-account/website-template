@@ -1,2 +1,2 @@
 # website-template
-Responsive website template using bootstrap
+Responsive website template using Bootstrap.
