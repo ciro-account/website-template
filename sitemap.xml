@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://www.customer-domain-name.com</loc>
+        <lastmod>2014-04-25T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>http://www.customer-domain-name.com/index.html</loc>
+        <lastmod>2014-04-25T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+    <url>
+        <loc>http://www.customer-domain-name.com/about.html</loc>
+        <lastmod>2014-04-25T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://www.customer-domain-name.com/contact.html</loc>
+        <lastmod>2014-04-25T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+</urlset>
